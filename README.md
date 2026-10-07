@@ -2,14 +2,13 @@
 
 I'm a CS PhD candidate at PKU. I study how *complex systems evolve through time series* and how AI can reason about them trustworthily: dynamic time series causality, accountable LLM investigative reasoning, and the time series modality support for LLM to comprehend temporal signals and their underlying mechanisms.
 
-My recent work includes **[Nautil](https://arxiv.org/abs/2610.03190)** (arXiv 2610.03190), on learning when the evidence justifies closing a case; **[JustDiag!](https://arxiv.org/abs/2606.19407)** (arXiv 2606.19407), on explicit LLM MAS diagnostic justification; **[UnCLe](https://arxiv.org/abs/2511.03168)** (NeurIPS 2025), on dynamic temporal causal discovery; and **[FaultInsight](https://doi.org/10.1145/3637528.3672051)** (KDD 2024), on interpreting host faults with structured causal impact insights. I'm also currently exploring **LLM-native time series comprehension**.
+My recent work includes *[Nautil](https://arxiv.org/abs/2610.03190)* (arXiv 2610.03190), on learning when the evidence justifies closing a case; *[JustDiag!](https://arxiv.org/abs/2606.19407)* (arXiv 2606.19407), on explicit LLM MAS diagnostic justification; *[UnCLe](https://arxiv.org/abs/2511.03168)* (NeurIPS 2025), on dynamic temporal causal discovery; and *[FaultInsight](https://doi.org/10.1145/3637528.3672051)* (KDD 2024), on interpreting host faults with structured causal impact insights. I'm also currently exploring *LLM-native time series comprehension*.
+
+Open to research opportunities in *industry* and *academia*.
 
 Before focusing on research, I built projects spanning full-stack web development, C# desktop apps with Windows Forms and Mono, iOS/macOS apps with Swift and Objective-C, React Native apps, Go backends, MPI-based parallel computing, games with Cocos2D and Unity, data visualization with Core Graphics and Metal, themes for Markdown readers and blogs, databases, ML/NLP/RL in Python, data analytics, utilities, and more.
 
-**PKU CS PhD · Dynamic Time Series Causality · Accountable LLM Reasoning · LLM Time Series Comprehension**  
-Open to research opportunities in *industry* and *academia*.
-
-## Selected Publications
+## Selected Publications · [See All](https://tingzhu.io/publications/)
 
 | Work | Publication | Focus and artifacts |
 | --- | --- | --- |
